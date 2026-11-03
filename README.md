@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Peter</h1>
+  <h1>"a letter from the funny lucky rabbit"</h1>
   <p><strong>Senior Full-Stack Overflow Developer & Principal Hallucination Architect</strong></p>
   <p><em>Turning $O(n^2)$ algorithms into $O(1)$ by simply truncating the dataset at compile-time.</em></p>
 
