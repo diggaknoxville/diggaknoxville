@@ -1,6 +1,6 @@
 <div align="center">
   <h1>"a letter from the funny lucky rabbit"</h1>
-  <p><strong>Senior Full-Stack Overflow Developer & Principal Hallucination Architect</strong></p>
+
   <p><em>Turning $O(n^2)$ algorithms into $O(1)$ by simply truncating the dataset at compile-time.</em></p>
 
   <!-- Overkill Badge Wall -->
@@ -52,12 +52,12 @@ void *allocate_safely(size_t size) {
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diggaknoxville&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Peter's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diggaknoxville&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=diggaknoxville&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Peter's Stats" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=diggaknoxville&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚠️ <strong>Notice:</strong> For legal, metaphysical, and comedic reasons, please under no circumstances Google my profile name <em>"Peter Schlönzke"</em>. It will not explain the code.</sub>
+  <sub>⚠️ <strong>Notice:</strong> For technical, metaphysical, and legal reasons, please under no circumstances Google <em>"Peter Schlönzke"</em>. It will not explain the code.</sub>
 </div>
